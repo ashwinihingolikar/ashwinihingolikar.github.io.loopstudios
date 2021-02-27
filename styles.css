@@ -322,10 +322,11 @@ footer .navbar-brand {
   z-index: 2;
 }
 .Main-logo{
+
   position: relative;
   top: 65px;
   right: 1rem;
-  z-index: 2;
+ 
 }
 
 .heading{
